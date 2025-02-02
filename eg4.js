@@ -1,0 +1,10 @@
+var x=10;
+y=0;
+z=x/y;
+console.log(z);
+k=undefined;
+m=Infinity;
+console.log(m);
+console.log(k);
+j=null;
+console.log(j);
