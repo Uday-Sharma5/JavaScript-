@@ -1,0 +1,4 @@
+// ARRAY CAN HAVE MULTIPLE DIMENSIONS
+
+var x=[10,[100,200,300],[4554,7,[45,45,45]]];
+console.log(x);
