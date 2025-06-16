@@ -1,1 +1,1 @@
-
+The spread syntax (...) in JavaScript is a powerful and commonly used feature introduced in ES6 (ECMAScript 2015). It allows you to expand iterable elements (like arrays, strings, or objects) into individual elements.
