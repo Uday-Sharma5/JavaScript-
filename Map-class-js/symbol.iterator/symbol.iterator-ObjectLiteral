@@ -1,0 +1,10 @@
+var a={};
+a[Symbol.iterator]=function*(){
+yield 20;
+yield 30;
+yield 40;
+}
+for(var b of a)
+{
+console.log(b);
+}
