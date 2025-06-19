@@ -1,0 +1,1 @@
+OOP in JavaScript (Object-Oriented Programming) is a programming paradigm based on the concept of objects, which can contain properties (data) and methods (functions). JavaScript supports OOP through features like encapsulation, inheritance, abstraction, and polymorphism, using objects, constructors, and ES6 classes.
