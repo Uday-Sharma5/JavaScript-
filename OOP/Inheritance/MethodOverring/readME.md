@@ -1,0 +1,1 @@
+Method overriding in JavaScript occurs when a subclass (child class) provides its own specific implementation for a method that is already defined in its superclass (parent class). This allows subclasses to customize the behavior of inherited methods without altering the original implementation in the superclass.
