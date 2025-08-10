@@ -1,1 +1,0 @@
-An event in NodeJS is an action or occurrence, such as a user click, a file being read, or a message being received, that NodeJS can respond to. Events are managed using the EventEmitter class, which is part of NodeJS's built-in events module. This allows NodeJS to react to various actions asynchronously.
