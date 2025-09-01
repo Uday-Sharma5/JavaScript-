@@ -1,0 +1,1 @@
+This folder contains JavaScript projects and examples related to network programming. It includes implementations of client-server communication, socket programming, HTTP requests, WebSocket connections, and other networking concepts in JavaScript.
